@@ -3,6 +3,9 @@ package com.example.administrator.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * luoxingxing
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
